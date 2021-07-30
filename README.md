@@ -5,7 +5,7 @@ This project objective is Building a machine learning model to successfully iden
 
 ### Dataset:
 I used a subset from WiLi-2018 Wikipedia dataset. The original dataset contains 235000 paragraphs of 235 languages. Each language in this dataset contains 1000 paragraphs.
-Not all of the 235 languages are commonly used so, the subset I used just contains 22 languages so, it include 22000 paragraphs. 1000 paragraphs for every language. A sample from the datset is shown in the following figure. You can find the dataset [here](https://www.kaggle.com/zarajamshaid/language-identification-datasst)
+Not all of the 235 languages are commonly used so, the subset I used just contains 22 languages so, it include 22000 paragraphs. 1000 paragraphs for every language. A sample from the datset is shown in the following figure. You can find the dataset [here](https://www.kaggle.com/zarajamshaid/language-identification-datasst).
 
 <p align="center">
   <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Sample%20from%20the%20dataset.PNG" width="500" height="179" alt="Sample from the dataset" />
@@ -21,4 +21,4 @@ As shown in the following table, I got high acccuracies over all the models but 
   <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Results.PNG"  width="600" height="134" alt="Results" />
 </p>
 
-More details could be found in the [project repot](https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Final%20Project%20Report%20-%20Language%20Identification%20-%20NLP%20Course.pdf)
+More details could be found in the [Project report](https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Final%20Project%20Report%20-%20Language%20Identification%20-%20NLP%20Course.pdf)
