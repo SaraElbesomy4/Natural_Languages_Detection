@@ -8,5 +8,5 @@ I used a subset from WiLi-2018 Wikipedia dataset. The original dataset contains 
 Not all of the 235 languages are commonly used so, the subset I used just contains 22 languages so, it include 22000 paragraphs. 1000 paragraphs for every language. A sample from the datset is shown in the following figure. You can find the dataset [here](https://www.kaggle.com/zarajamshaid/language-identification-datasst)
 
 <p align="center">
-  <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Sample%20from%20the%20dataset.PNG" />
+  <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Sample%20from%20the%20dataset.PNG" width="200" height="40" alt="Sample from the dataset" />
 </p>
