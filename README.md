@@ -10,3 +10,8 @@ Not all of the 235 languages are commonly used so, the subset I used just contai
 <p align="center">
   <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Sample%20from%20the%20dataset.PNG" width="500" height="179" alt="Sample from the dataset" />
 </p>
+
+### Models:
+In this project I tried 3 different ML models: Logistic regression, Support vector machine and Multi-layer perceptron neural network.I tried all of them with 2 different features extractores: Bag of words and TF-IDF. Therefore, I have 6 models to compare and find the best one.
+
+### Results:
