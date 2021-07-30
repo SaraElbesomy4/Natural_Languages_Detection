@@ -20,3 +20,5 @@ As shown in the following table, I got high acccuracies over all the models but 
 <p align="center">
   <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Results.PNG"  width="600" height="134" alt="Results" />
 </p>
+
+More details could be found in the project report [here](https://www.kaggle.com/zarajamshaid/language-identification-datasst)
