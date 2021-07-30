@@ -18,5 +18,5 @@ In this project I tried 3 different ML models: Logistic regression, Support vect
 As shown in the following table, I got high acccuracies over all the models.
 
 <p align="center">
-  <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Results.PNG"  width="500" height="112" alt="Results" />
+  <img src="https://github.com/SaraElbesomy4/Natural_Languages_Detection/blob/main/Images/Results.PNG"  width="600" height="134" alt="Results" />
 </p>
